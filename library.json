@@ -1,0 +1,23 @@
+{
+  "name": "TLVPP",
+  "version": "1.0.0",
+  "description": "A \"Hello world\" program is a computer program that outputs \"Hello World\" (or some variant) on a display device",
+  "keywords": "planet, happiness, people",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwardstock/tlvpp.git"
+  },
+  "authors": [
+    {
+      "name": "Eduard Maximovich",
+      "email": "edward.vstock@gmail.com",
+      "url": "https://github.com/edwardstock"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edwardstock/tlvpp",
+  "dependencies": {
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
