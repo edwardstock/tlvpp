@@ -1,9 +1,9 @@
 tlvpp
 ----
 
-An easy-to-use TLV API in C and C++ (wrapper) (based on https://github.com/Jhuster/TLV)
+TLV (tag-length-value) optimized for embedded devices (based on https://github.com/Jhuster/TLV)
 
 Usage
 ----------
 
-TBD
+[see test.cpp](tests/tlvpp.cpp)
